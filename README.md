@@ -1,2 +1,2 @@
 # Acme-site
-Un exemplu de site web pentru o firma.
+Un exemplu de site care ofera servici de web design, editat doar in HTML si CSS.
